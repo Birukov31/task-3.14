@@ -8,8 +8,12 @@ LICENSE: [MIT](/license.md)
 ---
 
 ### Содержание: 
-1. что то 
-2. [git add](add.md)
+1. [Установка имени и электронной почты](./setap.md)
+2. [git init](init.md)
+3. [git add](add.md)
+4. []()
+5. []()
+6. []()
 ---
 
 Git logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 
