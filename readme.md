@@ -11,8 +11,8 @@ LICENSE: [MIT](/license.md)
 1. [Установка имени и электронной почты](./setap.md)
 2. [git init](init.md)
 3. [git add](add.md)
-4. []()
-5. []()
+4. [git commin -m ""](./commit.md)
+5. [git push]()
 6. []()
 ---
 
